@@ -1,1 +1,1 @@
-espacio para subir tarea de listas y tuplas
+espacio para subir tarea de diccionario, listas y tuplas
